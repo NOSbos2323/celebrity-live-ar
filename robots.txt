@@ -1,0 +1,5 @@
+# Live Star — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://nosbos2323.github.io/celebrity-live-ar/sitemap.xml
